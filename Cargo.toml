@@ -1,6 +1,7 @@
 [package]
-authors = ["Xiyu Zhai <xiyuzhai95@gmail.com>", "Teng Geng <???>"]
+authors = ["Xiyu Zhai <xiyuzhai95@gmail.com>"]
 edition = "2021"
+description = "toolchain installer for the Husky programming language"
 homepage = "https://github.com/husky-lang/huskyup"
 keywords = ["huskyup", "multihusky", "install", "proxy"]
 license = "MIT OR Apache-2.0"
